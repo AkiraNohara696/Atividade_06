@@ -1,0 +1,109 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+
+  height: 300px;
+  background-color: lime;
+  border-bottom: 20px solid salmon;
+
+}
+
+section{
+  height: 400px;
+}
+
+#verm{
+
+  background-color: brown;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+  border-bottom: 20px solid salmon;
+
+}
+
+#verm .card-rosa{
+
+  background-color: blanchedalmond;
+  width: 500px;
+  height: 300px;
+  padding-top: 60px;
+  padding-left: 60px;
+
+}
+
+#cyan{
+
+  background-color: cyan;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  border-bottom: 20px solid salmon;
+
+}
+
+#cyan .card-branco{
+
+  background-color: #fff;
+  width: 200px;
+  height: 300px;
+  padding-top: 60px;
+  padding-left: 60px;
+  border-radius: 10%;
+
+}
+
+#laranja{
+
+  background-color: orange;
+  padding-top: 60px;
+  padding-left: 60px;
+  gap: 80px;
+  border-bottom: 20px solid salmon;
+
+}
+
+#amarelo{
+
+  background-color: yellow;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+  border-bottom: 20px solid salmon;
+
+}
+
+#amarelo #azu-escuro{
+
+  background-color: blue;
+  width: 500px;
+  height: 300px;
+  padding-top: 60px;
+  padding-left: 60px;
+
+}
+
+#amarelo #verde{
+
+  background-color: aquamarine;
+  width: 500px;
+  height: 300px;
+  padding-top: 60px;
+  padding-left: 60px;
+
+}
+
+footer{
+
+  background-color: black;
+  height: 150px;
+
+}
